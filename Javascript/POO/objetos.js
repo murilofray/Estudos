@@ -18,3 +18,6 @@ console.log(pessoa);
 //Alterando atributos
 pessoa.altura = 1.81;
 console.log(pessoa);
+
+//Exibindo atributo especifico
+console.log(pessoa.nome);
