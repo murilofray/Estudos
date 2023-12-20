@@ -2,7 +2,15 @@
 const pessoa = {
   nome: 'Murilo L. F. de Oliveira',
   idade: 22,
-  sexo: "Masculino"
+  sexo: "Masculino",
+
+  descrever: function(){
+    console.log("Meu nome é " + this.nome + " minha idade é " + this.idade);
+  },
+
+  descreverAltura: function(){
+    console.log(`Minha altura é ${this.altura}`);
+  }
 };
 
 console.log(pessoa);
@@ -21,3 +29,5 @@ console.log(pessoa);
 
 //Exibindo atributo especifico
 console.log(pessoa.nome);
+
+pessoa.descreverAltura();
