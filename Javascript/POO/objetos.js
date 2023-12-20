@@ -31,3 +31,8 @@ console.log(pessoa);
 console.log(pessoa.nome);
 
 pessoa.descreverAltura();
+
+//Acesando dinamicamente um atributo
+const atributo = 'altura';
+pessoa[atributo] = 1.80;
+console.log(pessoa[atributo]);
