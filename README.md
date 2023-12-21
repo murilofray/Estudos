@@ -19,11 +19,11 @@ Sinta-se à vontade para contribuir adicionando mais códigos de exemplo, notas 
 
 ## Tecnologias Disponíveis Atualmente
 
-- [Javascript](Estudos/Javascript)
+- [Javascript](Javascript)
 
 ## Tecnologias a Ser Estudas no Futuro
-- [HTML5](Estudos/HTML5)
-- [CSS6](Estudos/CSS6)
-- [Typescript](Estudos/Typescript)
-- [NodeJs](Estudos/NodeJs)
-- [MySql](Estudos/MySql)
+- [HTML5](HTML5)
+- [CSS6](CSS6)
+- [Typescript](Typescript)
+- [NodeJs](NodeJs)
+- [MySql](MySql)
