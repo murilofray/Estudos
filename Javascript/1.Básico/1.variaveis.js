@@ -1,4 +1,3 @@
-// Variáveis
 // A palavra-chave "let" é usada para criar variáveis que podem ser alteradas
 let numero = 20;
 
